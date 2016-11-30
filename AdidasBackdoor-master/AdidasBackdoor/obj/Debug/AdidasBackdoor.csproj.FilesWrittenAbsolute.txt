@@ -1,0 +1,8 @@
+/Users/adammanter/Downloads/AdidasBackdoor-master/AdidasBackdoor/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adammanter/Downloads/AdidasBackdoor-master/AdidasBackdoor/obj/Debug/AdidasBackdoor.Form1.resources
+/Users/adammanter/Downloads/AdidasBackdoor-master/AdidasBackdoor/obj/Debug/AdidasBackdoor.Properties.Resources.resources
+/Users/adammanter/Downloads/AdidasBackdoor-master/AdidasBackdoor/bin/Debug/AdidasBackdoor.exe.config
+/Users/adammanter/Downloads/AdidasBackdoor-master/AdidasBackdoor/bin/Debug/AdidasBackdoor.exe.mdb
+/Users/adammanter/Downloads/AdidasBackdoor-master/AdidasBackdoor/bin/Debug/AdidasBackdoor.exe
+/Users/adammanter/Downloads/AdidasBackdoor-master/AdidasBackdoor/obj/Debug/AdidasBackdoor.exe
+/Users/adammanter/Downloads/AdidasBackdoor-master/AdidasBackdoor/obj/Debug/AdidasBackdoor.exe.mdb

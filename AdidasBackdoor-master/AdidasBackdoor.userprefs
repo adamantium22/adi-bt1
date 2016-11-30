@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{83B2D77F-C8AE-4BBB-804D-A13F013BC811}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdidasBackdoor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdidasBackdoor/Form1.Designer.cs">
+    <Files>
+      <File FileName="AdidasBackdoor/Form1.Designer.cs" Line="91" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
